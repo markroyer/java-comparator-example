@@ -6,6 +6,11 @@ panel.
 This program is can be used to introduce students to the concepts of
 the `Comparable` and `Comparative` interfaces.
 
+## Screenshots
+
+![Shapes](https://raw.githubusercontent.com/wiki/markroyer/java-comparator-example/shapes.png
+"Shapes Comparator Example")
+
 ## Setup
 
 The program was developed in Eclipse.  To work with the project in
